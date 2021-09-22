@@ -4,7 +4,8 @@
         "logo": "LOGO",
         "section_1": {
             "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-            "heading": ""
+            "heading": "LOREM <span className=\"underline\">IPSUM</span> DOLOR",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volpat mattis eros."
         }   
     }
 }
