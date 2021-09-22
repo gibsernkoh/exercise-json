@@ -1,8 +1,10 @@
 {
-    "title": "Home",
-    "logo": "LOGO",
-    "section_1": {
-        "video": "https://www.w3schools.com/html/mov_bbb.mp4",
-        "heading": ""
+    "home": {
+        "title": "Home",
+        "logo": "LOGO",
+        "section_1": {
+            "video": "https://www.w3schools.com/html/mov_bbb.mp4",
+            "heading": ""
+        }   
     }
 }
