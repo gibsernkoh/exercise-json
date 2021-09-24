@@ -18,11 +18,11 @@
             },
             "heading": "DONEC NEC JUSTO",
             "items": [
-                { "id": "1", "title": "Lorem ipsum #1", "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci." },
-                { "id": "2", "title": "Lorem ipsum #2", "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci." },
-                { "id": "3", "title": "Lorem ipsum #3", "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci." },
-                { "id": "4", "title": "Lorem ipsum #4", "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci." },
-                { "id": "5", "title": "Lorem ipsum #5", "description": "Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci." }
+                { "id": "1", "title": "Lorem ipsum #1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit." },
+                { "id": "2", "title": "Lorem ipsum #2", "description": "Etiam gravida justo sed nulla faucibus, non imperdiet enim consectetur." },
+                { "id": "3", "title": "Lorem ipsum #3", "description": "Etiam a eros pharetra, maximus felis in, accumsan risus." },
+                { "id": "4", "title": "Lorem ipsum #4", "description": "In non sem suscipit, volutpat mauris sed, elementum ipsum." },
+                { "id": "5", "title": "Lorem ipsum #5", "description": "Vivamus nec lacus non nibh placerat euismod et vitae magna." }
             ]
         }
     }
