@@ -5,7 +5,7 @@
     "home": {
         "title": "Home",
         "sitemenu": [
-            { "id": "1", "title": "Discover More", "to": "/", "active_on": "1" }
+            { "id": "1", "title": "DISCOVER MORE", "to": "/", "active_on": "1" }
         ],
         "section_1": {
             "video": "https://www.w3schools.com/html/mov_bbb.mp4",
